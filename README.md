@@ -1,10 +1,10 @@
 # sobre mim
 
 - 👋 oi,meu nome é @lucasFontour
-- meu email de contato é lucas
-- 👀 eu estou interessado em programar ...
+- meu email de contato é lucasfontoura2007@gmail.com
+- 👀 eu estou interessado em fazer curso de agronomia e barbeiro 
 - 🌱 eu estou aprendendo a programar recentemente a linguagem JavaScript e scratch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ eu procuro em colaborar 
+- 📫 como chegar ate mim: Mandando mensagem pelo email.com
 
-I’m currently learning ...
+
